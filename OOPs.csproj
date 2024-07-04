@@ -12,10 +12,5 @@
       <_Parameter1>Test</_Parameter1>
     </AssemblyAttribute>
   </ItemGroup>
-  
-  <ItemGroup>
-    <Folder Include="OOPS Concept\Day - 02\Properties\" />
-    <Folder Include="OOPS Concept\Day - 02\Object\" />
-  </ItemGroup>
 
 </Project>
