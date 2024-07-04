@@ -45,7 +45,7 @@
         //}      Cannot inherited because it is sealed
         public override void Method1()
         {
-            Console.WriteLine("Another class overrided method");
+            Console.WriteLine("Another class overrides method");
         }
 
     }

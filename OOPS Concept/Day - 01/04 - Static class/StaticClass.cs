@@ -17,7 +17,7 @@
             Console.WriteLine(s.Method3(100));       //for non static member we need to create object for accessing it.
         }
     }
-    static class StaticExample
+    static class StaticExample   
     {
         public static int Method1(int nNum)
         {
@@ -36,4 +36,11 @@
             return nNum+nNum;
         }
     }
+    //class AnotherClass : StaticExample
+    //{
+            //cannot derive from static class 'base class'
+    //}
+
+
+
 }
