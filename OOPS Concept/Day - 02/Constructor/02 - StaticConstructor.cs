@@ -6,7 +6,7 @@
         public static string Name { get; set; }
 
         // Static constructor initializes static property
-        static StaticConstructor2()
+        static StaticConstructor2()  //static constructor does not take access specifiers or Parameters
         {
             Name = "Doremon"; // Sets the initial value of the static property
         }
