@@ -22,7 +22,7 @@
         }
 
         // Public method to demonstrate access to private members
-        public void Display(string Name)
+        public void Display()
         {
             Console.WriteLine("The private field _Name can be accessed by the public methods getter and setter. The private field name is {0}", GetName());
             Method(); // Calling the private method
@@ -48,7 +48,7 @@
             string name = Console.ReadLine();
 
             privateMember.SetName(name);  // Set private field via public method
-            privateMember.Display(name);  // Display private field via public method
+            privateMember.Display();  // Display private field via public method
         }
     }
 }

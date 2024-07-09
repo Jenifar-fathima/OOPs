@@ -18,6 +18,9 @@ using VirtualPropertyProblem;
 using StaticPropertyProblem;
 using HiddenPropertiesProblem;
 using InterfacePropertyProblem;
+using PartialMethodExample;
+using ObjectInitializerProblem;
+using AbstractionExampleProblem;
 
 //AbstractProgram.Solution();
 //new PartialClassExample().Solution();
@@ -38,4 +41,7 @@ using InterfacePropertyProblem;
 //VirtualProperty.Solution();
 //StaticProperty.Solution();
 //TestHiddenProperties.Solution();
-MainInterfaceProperty.Solution();
+//MainInterfaceProperty.Solution();
+//MainPartialMetho.d.Solution();
+//ObjectInitializer.Solution();
+AbstractionExample.Solution();

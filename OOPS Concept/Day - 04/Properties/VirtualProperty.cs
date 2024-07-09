@@ -10,7 +10,7 @@
             Console.WriteLine($"Dog sound: {dog.Sound}");
             Console.WriteLine($"Cat sound: {cat.Sound}");
         }
-    }
+    }                
     public class Animal
     {
         public virtual string Sound => "Animal sound";

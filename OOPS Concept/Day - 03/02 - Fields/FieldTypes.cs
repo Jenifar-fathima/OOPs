@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace FieldTypesProblem
+﻿namespace FieldTypesProblem
 {
     class FieldTypes
     {

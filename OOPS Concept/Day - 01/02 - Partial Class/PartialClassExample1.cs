@@ -4,7 +4,7 @@
     {
         public  void Solution()
         {
-            //PartialClassExample partialClassExample = new SubClass();
+            PartialClassExample partialClassExample = new PartialClassExample();
             //Console.WriteLine(partialClassExample.AbstractMethod());
             Console.WriteLine("One");
             Solution1();
