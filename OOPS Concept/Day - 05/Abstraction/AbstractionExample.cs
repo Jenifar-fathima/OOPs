@@ -7,7 +7,7 @@
             AbstractClass myObject = new SubClass();
             myObject.Method();
         }
-    }
+    } 
     abstract class AbstractClass
     {
         public abstract void Method();

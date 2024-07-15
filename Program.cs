@@ -21,6 +21,9 @@ using InterfacePropertyProblem;
 using PartialMethodExample;
 using ObjectInitializerProblem;
 using AbstractionExampleProblem;
+using EncapsulationProblem;
+using InheritanceProgram;
+using OOPs.OOPS_Concept.Day___06.PolyMorphism;
 
 //AbstractProgram.Solution();
 //new PartialClassExample().Solution();
@@ -44,4 +47,7 @@ using AbstractionExampleProblem;
 //MainInterfaceProperty.Solution();
 //MainPartialMetho.d.Solution();
 //ObjectInitializer.Solution();
-AbstractionExample.Solution();
+//AbstractionExample.Solution();
+//EncapsulationProgram.Solution();
+//MainInheritanceClass.Solution();
+MainPolymorphism.Solution();
